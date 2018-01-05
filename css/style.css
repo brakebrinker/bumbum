@@ -1,0 +1,244 @@
+*{
+	box-sizing:border-box;
+}
+html,body{
+	height:100%;
+}
+body{
+	margin: 0;
+	padding: 0;
+	display:flex;
+	flex-direction:column;
+	min-height:100vh;
+	font:normal 16px/1.5 FuturaPT;
+	color:#535352;
+	min-width:480px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+header,footer{
+	flex:0 0 auto;
+}
+main{
+	flex-grow:1;
+}
+ul,ol{
+	list-style-position:inside;
+	padding:0;
+	margin:1em 0;
+}
+ul ul,
+ul ol,
+ol ul,
+ol ol{
+	margin:0 0 0 1em;
+}
+.wrapper{
+	max-width:1200px;
+	padding:0 15px;
+	margin:0 auto;
+}
+
+/*Header*/
+header {
+    background-color: #f8f8f8;
+    border-bottom: 2px solid #eeeeee;
+}
+.logo {
+    display: inline-block;
+    vertical-align:middle;
+    height: 24px;
+}
+.top-menu {
+	display:inline-block;
+	list-style: none;
+	margin:0 0 0 56px;
+	vertical-align:middle;
+	font-size:14px;
+	font-weight:300;
+}
+.top-menu li {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 13px;
+	border-bottom: 2px solid transparent;
+	margin-bottom: -2px;
+}
+.top-menu li.current,
+.top-menu li:hover,
+.top-menu li.active {
+	border-bottom: 2px solid #7e57c2;
+}
+.top-menu li a{
+	display: block;
+	padding: 34px 0 22px;
+	text-decoration: none;
+	font-weight: 700;
+	color: #7e57c2;
+}
+.geo {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0 -10px 40px;
+    padding-left: 17px;
+    background: url(../img/geo-icon.png) no-repeat center left;
+}
+.geo select {
+	border: 1px solid #111;
+	background: transparent;
+	padding: 0px 20px 0px 5px;
+	border: none;
+	font-size: 14px;
+	font-family: FuturaPT;
+	font-weight: 700;
+	color: #7e57c2;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	background: url(../img/geo-arrow.png) 96% 55% / 8% no-repeat transparent;
+	outline: none;
+}
+/* CAUTION: IE hackery ahead */
+select::-ms-expand { 
+    display: none; /* remove default arrow on ie10 and ie11 */
+}
+.socials {
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    float: right;
+    margin-top: 27px;
+}
+.socials a {
+    display: inline-block;
+    width: 25px;
+    height: 24px;
+    margin: 0 6px;
+    border-radius: 50%;
+}
+.socials a:hover {
+	opacity: .7;
+}
+.socials a:first-child {
+	margin-left: 0;
+}
+.socials a:last-child {
+	margin-right: 0;
+}
+.social-vk {
+	background: url(../img/vk-icon.svg) no-repeat center center;
+	background-size: cover;
+}
+.social-fb {
+	background: url(../img/fb-icon.svg) no-repeat center center;
+	background-size: cover;
+}
+.social-ok {
+	background: url(../img/ok-icon.svg) no-repeat center center;
+	background-size: cover;
+}
+.social-tw {
+	background: url(../img/tw-icon.svg) no-repeat center center;
+	background-size: cover;
+}
+.social-vb {
+	background: url(../img/vb-icon.svg) no-repeat center center;
+	background-size: cover;
+}
+.social-wt {
+	background: url(../img/wt-icon.svg) no-repeat center center;
+	background-size: cover;
+}
+.social-tg {
+	background: url(../img/tg-icon.svg) no-repeat center center;
+	background-size: cover;
+}
+
+/*Breadcrumbs*/
+.breadcrumbs {
+	font-weight: 100;
+	font-size: 12px;
+	padding-top: 18px;
+	padding-bottom: 14px;
+}
+.breadcrumbs i {
+    margin: 0 8px;
+}
+.breadcrumbs a {
+    color: #7e57c2;
+    text-decoration: none;
+}
+
+/*Side bar*/
+.aside-wrapper {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 18px;
+    padding-bottom: 30px;
+}
+aside {
+    width: 270px;
+    flex: 0 0 auto;
+    margin-right: 30px;
+}
+.aside-title {
+	background-color: #7e57c2;
+	margin: 0;
+	color: #fff;
+	font-size: 14px;
+	line-height: 16px;
+}
+.catalog-aside .aside-title {
+	padding: 12px 34px 12px 50px;
+	background: #7e57c2 url(../img/catalog-icon.svg) no-repeat 20px center;
+}
+.catalog-aside .aside-title a {
+    display: inline-block;
+    float: right;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 100;
+}
+.aside-body {
+	border-left: 2px solid #eee;
+	border-right: 2px solid #eee;
+	border-bottom: 2px solid #eee;
+	padding: 20px 23px;
+}
+.catalog-aside .aside-body {
+	padding: 28px;
+}
+
+/*Footer*/
+footer {
+    background-color: #7e57c2;
+}
+.bottom-menu {
+    display: inline-block;
+    vertical-align: middle;
+    list-style: none;
+    margin-top: 26px;
+    margin-bottom: 10px;
+}
+.bottom-menu li {
+    display: inline-block;
+    margin: 0 10px;
+}
+.bottom-menu li:first-child {
+	margin-left: 0;
+}
+.bottom-menu li:last-child {
+	margin-right: 0;
+}
+.bottom-menu li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 13px;
+	font-weight: 700;
+}
+.copyright {
+    font-size: 12px;
+    color: #fff;
+    font-weight: 100;
+    margin-bottom: 12px;
+}

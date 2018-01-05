@@ -1,0 +1,897 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"response"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"the",
+				"the_permalink"
+			],
+			[
+				"wor",
+				"workmode_to"
+			],
+			[
+				"cash",
+				"cashouts"
+			],
+			[
+				"ca",
+				"cashoutsAll"
+			],
+			[
+				"way",
+				"waystopay\t(archive-company.php)"
+			],
+			[
+				"wa",
+				"waystopay\t(archive-company.php)"
+			],
+			[
+				"cah",
+				"cashoutsAll"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"the_p",
+				"the_permalink\t(single-company.php)"
+			],
+			[
+				"me",
+				"medium\t(single-company.php)"
+			],
+			[
+				"get_the",
+				"get_the_ID\t(single-post.php)"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"get_o",
+				"get_queried_object_id\t(header.php)"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"max",
+				"maxHeight"
+			],
+			[
+				"ma",
+				"maxHeight"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"date",
+				"dateStr"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"ima",
+				"images/"
+			],
+			[
+				"fa",
+				"fadeOut"
+			],
+			[
+				"menu",
+				"menumainWidth"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"brr",
+				"border-radius"
+			],
+			[
+				"col",
+				"col-sm-3"
+			],
+			[
+				"all",
+				"allow"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"blo",
+				"blockHeight"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"vi",
+				"visible-xs"
+			],
+			[
+				"hid",
+				"hidden-xs"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"aja",
+				"ajaxTaxUrl"
+			],
+			[
+				"fade",
+				"fadeOut\t(examples.html)"
+			],
+			[
+				"ta",
+				"targetLink"
+			],
+			[
+				"pa",
+				"pageQuery"
+			],
+			[
+				"get",
+				"getQuery"
+			],
+			[
+				"admin",
+				"admin-ajax.php\t(zummy-filter.php)"
+			],
+			[
+				"zu",
+				"zummy-filter-tpl.php"
+			],
+			[
+				"inp",
+				"inpArr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"this",
+				"thisWidget"
+			],
+			[
+				"toggle",
+				"toggleClass"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"get_",
+				"get_header\t(single.php)"
+			],
+			[
+				"boo",
+				"bootstrap-js"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"he",
+				"heart-on.png\tw:-1 h:-1"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"thi",
+				"thisText"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"colu",
+				"columns\t(jquery.mosaicflow.min.js)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pull",
+		"selected_items":
+		[
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git:comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"all",
+				"Git: Add All"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git:",
+				"Git: Merge Branch"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git: ",
+				"Git: Push Current Branch"
+			],
+			[
+				"qui",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"brow",
+				"SFTP: Browse With FileZilla"
+			],
+			[
+				"fz",
+				"SFTP: Browse With FileZilla"
+			],
+			[
+				"sftp",
+				"SFTP: Browse With FileZilla"
+			],
+			[
+				"cache",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ui:",
+				"UI: Select Color Scheme"
+			],
+			[
+				"UI:",
+				"UI: Select Color Scheme"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"",
+				"ANF: New File"
+			],
+			[
+				"new",
+				"ANF: New File"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 370.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/projects/www/bumbum"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/bumbum/css/fonts.css",
+		"/D/xampp/htdocs/bumbum/css/style.css",
+		"/D/for projects/ebrf/ebrf/header.php",
+		"/D/xampp/htdocs/bumbum/header.php",
+		"/D/xampp/htdocs/bumbum/index.php",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/for projects/ebrf/ebrf/css/fonts.css",
+		"/D/for projects/ebrf/ebrf/css/style.css",
+		"/D/for projects/ebrf/ebrf/index.php",
+		"/D/xampp/htdocs/bumbum/footer.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/D/projects/www/ebrf/ebrf (10).sql",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/category.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/single-company.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/templates/post-preview.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/taxonomy.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/templates/company-search.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/templates/company-sort.php",
+		"/D/projects/profremontmebeli/app/plugins/zummy-filter/zummy-filter.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/css/style.css",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/js/chnlink.js",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/js/1.js",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/templates/company-preview.php",
+		"/D/projects/www/ebrf/wp-content/plugins/wp-postratings/includes/postratings-scripts.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/archive-company.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/aside.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/header.php",
+		"/C/Users/admin/Downloads/ebrf (8).sql",
+		"/D/projects/profremontmebeli/app/themes/profremont/functions.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/single-post.php",
+		"/C/Users/admin/Downloads/ebrf (6).sql",
+		"/D/projects/profremontmebeli/app/themes/profremont/header.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/single.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/page.php",
+		"/D/projects/www/ebrf/wp-content/themes/twentysixteen/single.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/functions.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/templates/tpl_order-page.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/templates/tpl_company-list-page.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/home.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/templates/tpl_calc-page.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/templates/info-points.php",
+		"/D/projects/profremontmebeli/app/themes/profremont/templates/tpl-home.php",
+		"/D/projects/profremontmebeli/app/themes/profremont/archive.php",
+		"/D/projects/profremontmebeli/app/themes/profremont/templates/tpl-materials.php",
+		"/D/projects/profremontmebeli/app/themes/profremont/category.php",
+		"/D/for projects/ebrf/ebrf/catalog.php",
+		"/D/for projects/ebrf/ebrf/list.php",
+		"/D/for projects/ebrf/ebrf/company.php",
+		"/D/for projects/ebrf/ebrf/aside.php",
+		"/D/for projects/ebrf/ebrf/calc.php",
+		"/D/for projects/ebrf/ebrf/order.php",
+		"/D/for projects/ebrf/ebrf/!blog.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/templates/tpl_union-order.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/templates/tpl_blog-page.php",
+		"/D/for projects/ebrf/ebrf/test.php",
+		"/D/projects/profremontmebeli/app/themes/profremont/templates/tpl-article-page.php",
+		"/D/projects/www/ebrf/wp-includes/widgets/class-wp-widget-categories.php",
+		"/D/projects/www/ebrf/wp-includes/category-template.php",
+		"/D/for projects/ebrf/ebrf/blog.php",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/front-page.php",
+		"/D/projects/realized/u4g_origin/header.php",
+		"/D/projects/realized/u4g_origin/tpl_otzyvy-po-treningu.php",
+		"/D/projects/realized/u4g_origin/also-recomendet.php",
+		"/D/projects/realized/u4g_origin/tpl_stati-single-page.php",
+		"/D/projects/realized/u4g_origin/single.php",
+		"/D/projects/realized/u4g_origin/category-stati.php",
+		"/D/projects/www/ebrf/wp-includes/class-walker-comment.php",
+		"/D/projects/realized/fsconsult/wp/fsconsult/wp-content/themes/fsconsult/front-page.php",
+		"/D/projects/www/ebrf/wp-content/plugins/contact-form-7/languages/readme.txt",
+		"/D/projects/realized/first_project/app/front-page.php",
+		"/D/projects/realized/profremontmebeli/app/themes/profremont/templates/tpl-contacts.php",
+		"/D/projects/realized/profremontmebeli/app/themes/profremont/form_order-now.php",
+		"/D/projects/www/ebrf/wp-includes/theme-compat/comments.php",
+		"/D/projects/www/ebrf/wp-includes/comment-template.php",
+		"/D/projects/www/ebrf/wp-content/plugins/wp-postratings/wp-postratings.php",
+		"/D/projects/www/ebrf/wp-content/plugins/wp-postratings/postratings-templates.php",
+		"/D/projects/www/ebrf/wp-content/plugins/wp-postratings/css/postratings-css.css",
+		"/D/projects/www/ebrf/wp-content/themes/ebrf/index.php",
+		"/D/projects/www/ebrf/.htaccess",
+		"/D/projects/www/ebrf/wp-config.php",
+		"/C/Users/admin/Downloads/varyagprofi_theme_2017-12-05_last_from_support/templates/layouts.layout.liquid",
+		"/D/projects/profremontmebeli/app/sftp-config.json",
+		"/D/projects/profremontmebeli/app/themes/profremont/single-materials.php",
+		"/C/Users/admin/Downloads/export_csv",
+		"/C/Users/admin/Downloads/export.csv",
+		"/C/Users/admin/Downloads/export1.csv",
+		"/C/Users/admin/Downloads/export_csv (1)",
+		"/C/Users/admin/Downloads/wp-all-import-pro/wplocker.com.txt",
+		"/D/for projects/profremontmebeli/photos/test.php",
+		"/C/Users/admin/Downloads/varyagprofi_theme_2017-12-05/templates/product.liquid",
+		"/C/Users/admin/Downloads/varyagprofi_theme_2017-12-05/templates/search.liquid",
+		"/D/projects/zaslugi/design/themes/responsive/templates/addons/blog/blocks/text_links.tpl",
+		"/D/projects/zaslugi/design/themes/responsive/templates/addons/discussion/blocks/testimonials.tpl",
+		"/C/users/admin/appdata/local/temp/sublime-sftp-browse-1512463930/mapped/www/design.zaslugi.ru/js/tygh/exceptions.js",
+		"/C/users/admin/appdata/local/temp/sublime-sftp-browse-1512462134/mapped/www/design.zaslugi.ru/js/tygh/exceptions.js",
+		"/C/Users/admin/Downloads/zaslugiru.sql",
+		"/C/users/admin/appdata/local/temp/sublime-sftp-browse-1512368897/mapped/www/design.zaslugi.ru/design/themes/responsive/templates/index.tpl",
+		"/D/projects/prostorus/msk/index.html",
+		"/D/projects/prostorus/msk/mail.php",
+		"/D/projects/local_conf.php",
+		"/D/projects/prostorus/msk/css/style.css",
+		"/D/projects/prostorus/msk/recaptchalib.php",
+		"/D/projects/promokodus_no/promokodus_no/css/style.css",
+		"/D/projects/promokodus_no/promokodus_no/index.html",
+		"/D/projects/promokodus_no/promokodus_no/js/main.js",
+		"/D/projects/zaslugi/sftp-config.json",
+		"/D/projects/promokodus_no/promokodus_no/.git/config",
+		"/D/for projects/local_conf.php",
+		"/D/projects/zaslugi/design/themes/responsive/templates/common/search.tpl",
+		"/D/projects/zaslugi/design/themes/responsive/templates/buttons/magnifier.tpl",
+		"/D/projects/zaslugi/design/themes/american/css/blocks/search.less",
+		"/D/projects/zaslugi/config.local.php",
+		"/D/projects/zaslugi/styles.tpl",
+		"/D/xampp/htdocs/zaslugi/local_conf.php",
+		"/D/projects/promokodus_no/promokodus_no/sftp-config.json",
+		"/C/Users/admin/AppData/Local/Temp/scp13401/www/zaslugi.ru/config.local.php",
+		"/C/Users/admin/AppData/Local/Temp/scp16494/www/zaslugi.ru/local_conf.php",
+		"/C/Users/admin/AppData/Local/Temp/scp15177/www/zaslugi.ru/config.php",
+		"/D/projects/promokodus_no/promokodus_no/1.html",
+		"/D/projects/profremontmebeli/themes/profremont/templates/tpl-contacts.php",
+		"/D/projects/profremontmebeli/themes/profremont/single-works.php",
+		"/D/projects/profremontmebeli/plugins/zummy-filter/zummy-filter.php",
+		"/D/projects/profremontmebeli/plugins/zummy-filter/custom.js",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Solarized (light).tmTheme",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/SFTP/schemes/Solarized (Light).sftpTheme"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 150.0
+	},
+	"output.git-commit":
+	{
+		"height": 150.0
+	},
+	"output.git-push":
+	{
+		"height": 150.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 37.0
+	},
+	"pinned_build_system": "",
+	"project": "bumbum.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\admin\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Solarized (light).tmTheme"
+			],
+			[
+				"main",
+				"themes\\profremont\\css\\main.css"
+			],
+			[
+				"fron",
+				"themes\\profremont\\front-page.php"
+			],
+			[
+				"fu",
+				"functions.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"sf",
+				"sftp-config.json"
+			],
+			[
+				"indhtml",
+				"D:\\for projects\\profremontmebeli\\profRemont\\index.html"
+			],
+			[
+				"f",
+				"functions.php"
+			],
+			[
+				"indht",
+				"calc\\index.html"
+			],
+			[
+				"i",
+				"index.php"
+			],
+			[
+				"sta",
+				"category-stati.php"
+			],
+			[
+				"tpl",
+				"tpl_partner-single-page.php"
+			],
+			[
+				"ot",
+				"tpl_otzyvy-po-treningu.php"
+			],
+			[
+				"rezul",
+				"page-rezultaty.php"
+			],
+			[
+				"progra",
+				"page-programmy-treningov.php"
+			],
+			[
+				"tpl_tre",
+				"tpl_trening-with-txt.php"
+			],
+			[
+				"slider-kompany",
+				"slider-kompany-home.php"
+			],
+			[
+				"slider-kompany-home",
+				"slider-kompany-home.php"
+			],
+			[
+				"front",
+				"front-page.php"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"form",
+				"have-questions-form-2.php"
+			],
+			[
+				".css",
+				"style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\projects\\promokodus\\promokodus.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
