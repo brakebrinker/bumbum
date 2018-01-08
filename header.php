@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="lib/font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/fonts.css">
+	<link rel="stylesheet" type="text/css" href="lib/slick/slick.css"/>
 </head>
 <body>
 	<header>
