@@ -1,5 +1,4 @@
 <?php include "header.php";?>
-<p>
 	<div class="wrapper">
 		<div class="breadcrumbs">
 			<a href="index.php">Главная</a>
@@ -10,7 +9,7 @@
 		</div>
 		<div class="aside-wrapper">
 			<?php include "aside.php";?>
-			<div class="product-content">
+			<div class="container-content">
 				<div class="search-container">
 					<a href="#" class="map-search">Поиск на карте</a>
 					<form class="search-content" action="">
@@ -37,66 +36,66 @@
 							</ul>
 							<div id="description">
 								<h2>Описание акции</h2>
-<p>С купоном вы получаете 50% скидки на роллы</p>
+								<p>С купоном вы получаете 50% скидки на роллы</p>
 
-<h2>Описание услуги</h2>
+								<h2>Описание услуги</h2>
 
-<div class="item-service">
-	<p><strong>СЯ´КЕ МАГУРО</strong></p>
-	<p>филе охлаждённого лосося, тунец, манго, сливочный сыр  <strong>275гр (8шт.) 16 руб. - 50% = 8 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>ДВЕ ТОБИКИ</strong></p>
-<p>Сливочный сыр, охлаждённый лосось, манго, икра тобико  <strong>240гр (8шт) 14 руб. - 50% = 7 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>АВАНГАРД</strong></p>
-<p>сливочный сыр, огурец, лосось, сыр чеддер, икра тобико, сладкий соус чили  <strong>255гр (8шт) 12руб. - 50% = 6 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>АБУРИ</strong></p>
-<p>сливочный сыр, тунец, лук зеленый, айсберг <strong>235гр (8шт) 13руб. - 50% = 6.50 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>МОЗАЙКА</strong></p>
-<p>Сливочный сыр , лосось , тунец , окунь ,  авокадо , соус сладкий чили. <strong>255гр (8шт) 12руб. - 50% = 6 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>МИСУРИ</strong></p>
-<p>тунец, икра тобико, спайси соус, кранч  <strong>245г (8шт)  16руб. -50% = 8 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>ЙО!МАЙО</strong></p>
-<p>Маринованный редис «такуан», жареный лосось терияки, сливочный сыр, кунжут, соус «унаги».  <strong>215г (8шт)  9 руб. -50% = 4.50 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>ЭДО</strong></p>
-<p>Сливочный сыр, креветка в темпуре , тобико , огурец.  <strong>235гр (8шт)  12 руб. - 50% = 6 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>САППОРО</strong></p>
-<p>Тунец, лосось, окунь, соус «барбекю», соус «унаги», соус «ким-чи», салат, кунжут  <strong>205г (8шт)  9 руб. - 50% = 4.50 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>ТИБАЙО</strong></p>
-<p>Охлаждённый тунец, креветка отварная, огурец, сливочный сыр, кунжут.  <strong>215г (8шт)  11 руб. - 50% = 5.5 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>ТРИ СЫРА</strong></p>
-<p>Плавленный сыр мааздам, твёрдый сыр джугас, сливочный сыр креммете, грейпфрут, соус сладкий чили. <strong>245гр (8шт)  9 руб. - 50% = 4.50 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>ФИЛАДЕЛЬФИЯ МАГУРО</strong></p>
-<p>Сливочный сыр, филе тунца  <strong>250гр (8шт)  14 руб. - 50% = 7 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>АСАХИ МАКИ</strong></p>
-<p>Сливочный сыр, филе лосося, тобико, авокадо, креветка.  <strong>220гр (8шт)  15руб. - 50% = 7.50 руб.</strong></p>
-</div>
-<div class="item-service">
-<p><strong>ТОКИ МАКИ</strong></p>
-<p>Сыр сливочный, копченый лосось, огурец.  <strong>175 (8шт) 10 руб. - 50% = 5 руб</strong></p>
-</div>
+								<div class="item-service">
+									<p><strong>СЯ´КЕ МАГУРО</strong></p>
+									<p>филе охлаждённого лосося, тунец, манго, сливочный сыр  <strong>275гр (8шт.) 16 руб. - 50% = 8 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>ДВЕ ТОБИКИ</strong></p>
+								<p>Сливочный сыр, охлаждённый лосось, манго, икра тобико  <strong>240гр (8шт) 14 руб. - 50% = 7 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>АВАНГАРД</strong></p>
+								<p>сливочный сыр, огурец, лосось, сыр чеддер, икра тобико, сладкий соус чили  <strong>255гр (8шт) 12руб. - 50% = 6 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>АБУРИ</strong></p>
+								<p>сливочный сыр, тунец, лук зеленый, айсберг <strong>235гр (8шт) 13руб. - 50% = 6.50 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>МОЗАЙКА</strong></p>
+								<p>Сливочный сыр , лосось , тунец , окунь ,  авокадо , соус сладкий чили. <strong>255гр (8шт) 12руб. - 50% = 6 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>МИСУРИ</strong></p>
+								<p>тунец, икра тобико, спайси соус, кранч  <strong>245г (8шт)  16руб. -50% = 8 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>ЙО!МАЙО</strong></p>
+								<p>Маринованный редис «такуан», жареный лосось терияки, сливочный сыр, кунжут, соус «унаги».  <strong>215г (8шт)  9 руб. -50% = 4.50 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>ЭДО</strong></p>
+								<p>Сливочный сыр, креветка в темпуре , тобико , огурец.  <strong>235гр (8шт)  12 руб. - 50% = 6 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>САППОРО</strong></p>
+								<p>Тунец, лосось, окунь, соус «барбекю», соус «унаги», соус «ким-чи», салат, кунжут  <strong>205г (8шт)  9 руб. - 50% = 4.50 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>ТИБАЙО</strong></p>
+								<p>Охлаждённый тунец, креветка отварная, огурец, сливочный сыр, кунжут.  <strong>215г (8шт)  11 руб. - 50% = 5.5 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>ТРИ СЫРА</strong></p>
+								<p>Плавленный сыр мааздам, твёрдый сыр джугас, сливочный сыр креммете, грейпфрут, соус сладкий чили. <strong>245гр (8шт)  9 руб. - 50% = 4.50 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>ФИЛАДЕЛЬФИЯ МАГУРО</strong></p>
+								<p>Сливочный сыр, филе тунца  <strong>250гр (8шт)  14 руб. - 50% = 7 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>АСАХИ МАКИ</strong></p>
+								<p>Сливочный сыр, филе лосося, тобико, авокадо, креветка.  <strong>220гр (8шт)  15руб. - 50% = 7.50 руб.</strong></p>
+								</div>
+								<div class="item-service">
+								<p><strong>ТОКИ МАКИ</strong></p>
+								<p>Сыр сливочный, копченый лосось, огурец.  <strong>175 (8шт) 10 руб. - 50% = 5 руб</strong></p>
+								</div>
 							</div>
 							<div id="conditions">
 								<h2>Как использовать сертификат</h2>
@@ -267,5 +266,4 @@
 			</div>
 		</div>
 	</div>
-</p>
 <?php include "footer.php";?>
