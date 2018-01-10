@@ -34,168 +34,214 @@
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                             <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
                             <span class="hr"></span>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
-						</div>
-						<div class="products__item">
-							<a href="#" class="link-overlay"></a>
-							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_2.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606 Пылесос puppyoo WP606 Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 						<div class="products__item">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_3.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__img"><img src="img/products/disc_2.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
+						</div>
+						<div class="products__item">
+							<a href="#" class="link-overlay"></a>
+							<div class="products__sale green"><span>-96%</span></div>
+							<div class="products__img"><img src="img/products/disc_3.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
+						</div>
+						<div class="products__item">
+							<a href="#" class="link-overlay"></a>
+							<div class="products__sale green"><span>-96%</span></div>
+							<div class="products__img"><img src="img/products/disc_4.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
+						</div>
+						<div class="products__item">
+							<a href="#" class="link-overlay"></a>
+							<div class="products__sale green"><span>-96%</span></div>
+							<div class="products__img"><img src="img/products/disc_5.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 						<div class="products__item">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_4.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
-						</div>
-						<div class="products__item">
-							<a href="#" class="link-overlay"></a>
-							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_5.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__img"><img src="img/products/disc_3.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 						<div class="products__item">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_6.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
-						</div>
-						<div class="products__item">
-							<a href="#" class="link-overlay"></a>
-							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_7.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__img"><img src="img/products/disc_6.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 						<div class="products__item">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_8.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__img"><img src="img/products/disc_7.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 						<div class="products__item">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_9.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__img"><img src="img/products/disc_8.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
+						</div>
+						<div class="products__item">
+							<a href="#" class="link-overlay"></a>
+							<div class="products__sale green"><span>-96%</span></div>
+							<div class="products__img"><img src="img/products/disc_9.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 						<div class="products__item">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_10.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__img"><img src="img/products/disc_10.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
+						</div>
+						<div class="products__item">
+							<a href="#" class="link-overlay"></a>
+							<div class="products__sale green"><span>-96%</span></div>
+							<div class="products__img"><img src="img/products/disc_11.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 						<div class="products__item">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_11.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__img"><img src="img/products/disc_12.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 						<div class="products__item">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_12.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__img"><img src="img/products/disc_13.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 						<div class="products__item">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_13.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
-						</div>
-						<div class="products__item">
-							<a href="#" class="link-overlay"></a>
-							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_14.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
-						</div>
-						<div class="products__item">
-							<a href="#" class="link-overlay"></a>
-							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_15.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__img"><img src="img/products/disc_14.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 						<div class="products__item">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_16.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__img"><img src="img/products/disc_15.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
+						</div>
+						<div class="products__item">
+							<a href="#" class="link-overlay"></a>
+							<div class="products__sale fillet"><span>-96%</span></div>
+							<div class="products__img"><img src="img/products/disc_16.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 						<div class="products__item">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_17.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
-						</div>
-						<div class="products__item">
-							<a href="#" class="link-overlay"></a>
-							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_18.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
-						</div>
-						<div class="products__item">
-							<a href="#" class="link-overlay"></a>
-							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_19.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
-						</div>
-						<div class="products__item">
-							<a href="#" class="link-overlay"></a>
-							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_20.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
-						</div>
-						<div class="products__item">
-							<a href="#" class="link-overlay"></a>
-							<div class="products__sale green"><span>-96%</span></div>
-							<div class="products__img"><img src="img/products/sale_21.jpg" alt=""></div>
-							<div class="products__title">Пылесос puppyoo WP606</div>
-							<div class="products__price">914 руб.</div>
-							<div class="products__old-price">3900 руб.</div>
+							<div class="products__img"><img src="img/products/disc_17.jpg" alt=""></div>
+                            <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                            <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                            <span class="hr"></span>
+							<div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+							<span class="hr"></span>
+							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
 					</div>
 					<div class="pagination">
