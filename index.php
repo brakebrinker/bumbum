@@ -104,7 +104,7 @@
 					</li>
 				</ul>
 				</div>
-				<span class="hr"></span>
+                <span class="hr"></span>
 				<!-- <div class="taxonomy-content">
 					<h1>Услуги</h1>
 					<div class="taxonomy-products services masonry">
@@ -314,6 +314,163 @@
 				</div> -->
 			</div>
 		</div>
-	</div>
-	.
+    </div>
+    <div class="wrapper">
+        <div class="banner-content">
+            <img src="img/banner-main.jpg" alt="">
+        </div>
+        <div class="part-container">
+            <h3>Скидки</h3>
+            <div class="taxonomy-products">
+                <div class="products__item discount">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__sale green"><span>-96%</span></div>
+                    <div class="products__img"><img src="img/products/disc_1.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                    <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                    <span class="hr"></span>
+                    <div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+                    <span class="hr"></span>
+                    <div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+                    <div class="products__get-sales"><a href="#">Получить скидку</a></div>
+                </div>
+                <div class="products__item discount">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__sale fillet"><span>-96%</span></div>
+                    <div class="products__img"><img src="img/products/disc_2.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                    <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                    <span class="hr"></span>
+                    <div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+                    <span class="hr"></span>
+                    <div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+                    <div class="products__get-sales"><a href="#">Получить скидку</a></div>
+                </div>
+                <div class="products__item discount">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__sale green"><span>-96%</span></div>
+                    <div class="products__img"><img src="img/products/disc_3.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                    <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                    <span class="hr"></span>
+                    <div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+                    <span class="hr"></span>
+                    <div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+                    <div class="products__get-sales"><a href="#">Получить скидку</a></div>
+                </div>
+                <div class="products__item discount">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__sale green"><span>-96%</span></div>
+                    <div class="products__img"><img src="img/products/disc_4.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                    <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                    <span class="hr"></span>
+                    <div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+                    <span class="hr"></span>
+                    <div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+                    <div class="products__get-sales"><a href="#">Получить скидку</a></div>
+                </div>
+                <div class="products__item discount">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__sale green"><span>-96%</span></div>
+                    <div class="products__img"><img src="img/products/disc_5.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                    <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                    <span class="hr"></span>
+                    <div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+                    <span class="hr"></span>
+                    <div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+                    <div class="products__get-sales"><a href="#">Получить скидку</a></div>
+                </div>
+                <div class="products__item discount">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__sale fillet"><span>-96%</span></div>
+                    <div class="products__img"><img src="img/products/disc_3.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                    <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                    <span class="hr"></span>
+                    <div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+                    <span class="hr"></span>
+                    <div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+                    <div class="products__get-sales"><a href="#">Получить скидку</a></div>
+                </div>
+                <div class="products__item discount">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__sale fillet"><span>-96%</span></div>
+                    <div class="products__img"><img src="img/products/disc_6.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                    <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                    <span class="hr"></span>
+                    <div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+                    <span class="hr"></span>
+                    <div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+                    <div class="products__get-sales"><a href="#">Получить скидку</a></div>
+                </div>
+                <div class="products__item discount">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__sale fillet"><span>-96%</span></div>
+                    <div class="products__img"><img src="img/products/disc_7.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                    <div class="products__descr">Блины со сладкой, лёгкой или сытной начинкой, ароматные горячие супы и салаты из свежих овощей — сеть ресторанов «Теремок» приглашает пообедать быстро и вкусно. </div>
+                    <span class="hr"></span>
+                    <div class="products__date">16 ноября 2017 – 16 января 2018 9:00–22:30</div>
+                    <span class="hr"></span>
+                    <div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
+                    <div class="products__get-sales"><a href="#">Получить скидку</a></div>
+                </div>
+            </div>
+            <div class="part-container">
+            <h3>Рассрочка</h3>
+            <div class="taxonomy-products">
+                <div class="products__item installment">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__termin green"><span>на 6 месяцев</span></div>
+                    <div class="products__img"><img src="img/products/installment_1.jpg" alt=""></div>
+                    <div class="products__title">Плитка и сантехника в рассрочку на 6 месяцев в DEЛЮКС</div>
+                </div>
+                <div class="products__item installment">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__termin fillet"><span>на 12 месяцев</span></div>
+                    <div class="products__img"><img src="img/products/installment_2.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                </div>
+                <div class="products__item installment">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__termin green"><span>на 12 месяцев</span></div>
+                    <div class="products__img"><img src="img/products/installment_3.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                </div>
+                <div class="products__item installment">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__termin fillet"><span>на 12 месяцев</span></div>
+                    <div class="products__img"><img src="img/products/installment_4.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                </div>
+                <div class="products__item installment">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__termin fillet"><span>на 12 месяцев</span></div>
+                    <div class="products__img"><img src="img/products/installment_5.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                </div>
+                <div class="products__item installment">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__termin green"><span>на 12 месяцев</span></div>
+                    <div class="products__img"><img src="img/products/installment_6.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                </div>
+                <div class="products__item installment">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__termin fillet"><span>на 12 месяцев</span></div>
+                    <div class="products__img"><img src="img/products/installment_7.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                </div>
+                <div class="products__item installment">
+                    <a href="#" class="link-overlay"></a>
+                    <div class="products__termin fillet"><span>на 12 месяцев</span></div>
+                    <div class="products__img"><img src="img/products/installment_8.jpg" alt=""></div>
+                    <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
+                </div>
+            </div>
+        </div>
+    </div>
 <?php include "footer.php";?>
