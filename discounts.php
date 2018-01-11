@@ -26,8 +26,8 @@
 						</select>
 					</form>
 					<span class="hr"></span>
-					<div class="taxonomy-products discount">
-						<div class="products__item">
+					<div class="taxonomy-products">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_1.jpg" alt=""></div>
@@ -39,7 +39,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_2.jpg" alt=""></div>
@@ -51,7 +51,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_3.jpg" alt=""></div>
@@ -63,7 +63,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_4.jpg" alt=""></div>
@@ -75,7 +75,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_5.jpg" alt=""></div>
@@ -87,7 +87,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_3.jpg" alt=""></div>
@@ -99,7 +99,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_6.jpg" alt=""></div>
@@ -111,7 +111,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_7.jpg" alt=""></div>
@@ -123,7 +123,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_8.jpg" alt=""></div>
@@ -135,7 +135,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_9.jpg" alt=""></div>
@@ -147,7 +147,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_10.jpg" alt=""></div>
@@ -159,7 +159,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_11.jpg" alt=""></div>
@@ -171,7 +171,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_12.jpg" alt=""></div>
@@ -183,7 +183,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_13.jpg" alt=""></div>
@@ -195,7 +195,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_14.jpg" alt=""></div>
@@ -207,7 +207,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_15.jpg" alt=""></div>
@@ -219,7 +219,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_16.jpg" alt=""></div>
@@ -231,7 +231,7 @@
 							<div class="products__subinfo"><span class="comments">12</span><span class="likes">12</span></div>
 							<div class="products__get-sales"><a href="#">Получить скидку</a></div>
 						</div>
-						<div class="products__item">
+						<div class="products__item discount">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/disc_17.jpg" alt=""></div>

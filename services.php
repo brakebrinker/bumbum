@@ -1,5 +1,10 @@
 <?php include "header.php";?>
 	<div class="wrapper">
+        <div class="breadcrumbs">
+            <a href="index.php">Главная</a>
+            <i class="fa fa-angle-right" aria-hidden="true"></i>
+            <span>Услуги</span>
+        </div>
 		<div class="aside-wrapper">
 			<?php include "aside-right.php";?>
 			<div class="container-content">
@@ -10,102 +15,7 @@
 						<button>Найти</button>
 					</form>
 				</div>
-				<div class="nav-main">
-					<ul class="menu catalog-menu">
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-1.png" alt="">
-							</span>Компьютерные игры</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-2.png" alt="">
-							</span>Еда</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-3.png" alt="">
-							</span>Телефоны и аксессуары</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-4.png" alt="">
-							</span>Отдых и развлечения</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-5.png" alt="">
-							</span>Услуги</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-6.png" alt="">
-							</span>Техника и ПО</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-7.png" alt="">
-							</span>Путешествия и туризм</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-8.png" alt="">
-							</span>Красота и здоровье</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-9.png" alt="">
-							</span>Одежда</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-10.png" alt="">
-							</span>Гипермаркеты</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-11.png" alt="">
-							</span>Сайтостроение</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-12.png" alt="">
-							</span>Детские товары</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-13.png" alt="">
-							</span>Спорт</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-14.png" alt="">
-							</span>Для дома и офиса</a>
-					</li>
-					<li>
-						<a href="#">
-							<span>
-								<img src="img/cat-more.png" alt="">
-							</span>Еще</a>
-					</li>
-				</ul>
-				</div>
-				<span class="hr"></span>
-				<!-- <div class="taxonomy-content">
+				<div class="taxonomy-content">
 					<h1>Услуги</h1>
 					<div class="taxonomy-products services masonry">
                         <div class="menu__item">
@@ -311,9 +221,8 @@
                             </ul>
                         </div>
 					</div>
-				</div> -->
+				</div>
 			</div>
 		</div>
 	</div>
-	.
 <?php include "footer.php";?>

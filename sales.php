@@ -27,7 +27,7 @@
 					</form>
 					<span class="hr"></span>
 					<div class="taxonomy-products sale">
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_1.jpg" alt=""></div>
@@ -35,7 +35,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_2.jpg" alt=""></div>
@@ -43,7 +43,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_3.jpg" alt=""></div>
@@ -51,7 +51,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_4.jpg" alt=""></div>
@@ -59,7 +59,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_5.jpg" alt=""></div>
@@ -67,7 +67,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_6.jpg" alt=""></div>
@@ -75,7 +75,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_7.jpg" alt=""></div>
@@ -83,7 +83,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_8.jpg" alt=""></div>
@@ -91,7 +91,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_9.jpg" alt=""></div>
@@ -99,7 +99,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_10.jpg" alt=""></div>
@@ -107,7 +107,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_11.jpg" alt=""></div>
@@ -115,7 +115,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_12.jpg" alt=""></div>
@@ -123,7 +123,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_13.jpg" alt=""></div>
@@ -131,7 +131,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_14.jpg" alt=""></div>
@@ -139,7 +139,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_15.jpg" alt=""></div>
@@ -147,7 +147,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale fillet"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_16.jpg" alt=""></div>
@@ -155,7 +155,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_17.jpg" alt=""></div>
@@ -163,7 +163,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_18.jpg" alt=""></div>
@@ -171,7 +171,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_19.jpg" alt=""></div>
@@ -179,7 +179,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_20.jpg" alt=""></div>
@@ -187,7 +187,7 @@
 							<div class="products__price">914 руб.</div>
 							<div class="products__old-price">3900 руб.</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item sale">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__sale green"><span>-96%</span></div>
 							<div class="products__img"><img src="img/products/sale_21.jpg" alt=""></div>

@@ -6,4 +6,10 @@ jQuery(document).ready(function() {
 
     //On tabs
     $('#product-tab-container').easytabs();
+
+    //masonry
+    // $('.masonry').masonry({
+    //     itemSelector: '.products__item',
+    //     columnWidth: 270
+    //   });
 });

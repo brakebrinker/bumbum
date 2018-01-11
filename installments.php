@@ -35,109 +35,109 @@
 					</form>
 					<span class="hr"></span>
 					<div class="taxonomy-products installment">
-						<div class="products__item">
+						<div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin green"><span>на 6 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_1.jpg" alt=""></div>
                             <div class="products__title">Плитка и сантехника в рассрочку на 6 месяцев в DEЛЮКС</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin fillet"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_2.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
 						</div>
-						<div class="products__item">
+						<div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin green"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_3.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin fillet"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_4.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin fillet"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_5.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin green"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_6.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin fillet"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_7.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin fillet"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_8.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin green"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_9.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
 						</div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin green"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_10.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin fillet"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_11.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin fillet"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_12.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin green"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_13.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
 						</div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin green"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_14.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin fillet"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_15.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin fillet"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_16.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin fillet"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_17.jpg" alt=""></div>
                             <div class="products__title">Скидка 30% на всё меню и напитки в сети ресторанов «Теремок»</div>
                         </div>
-                        <div class="products__item">
+                        <div class="products__item installment">
 							<a href="#" class="link-overlay"></a>
 							<div class="products__termin fillet"><span>на 12 месяцев</span></div>
 							<div class="products__img"><img src="img/products/installment_18.jpg" alt=""></div>
