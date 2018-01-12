@@ -6,20 +6,22 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
 	<link rel="stylesheet" href="lib/font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/adaptive.css">
 	<link rel="stylesheet" href="css/fonts.css">
 	<link rel="stylesheet" type="text/css" href="lib/slick/slick.css"/>
 </head>
 <body>
 	<header>
 		<div class="wrapper">
-			<a href="#" class="logo"><img src="img/logo.png" alt="logo"></a>
+			<a href="/" class="logo"><img src="img/logo.png" alt="logo"></a>
+			<button class="mobile-menu-action"></button>
 			<ul class="menu top-menu">
-				<li><a href="#">Каталог</a></li>
-				<li class="current"><a href="#">Услуги</a></li>
-				<li><a href="#">Акции</a></li>
-				<li><a href="#">Скидки</a></li>
-				<li><a href="#">Рассрочки</a></li>
-				<li><a href="#">Распродажи</a></li>
+				<li><a href="/catalog.php">Каталог</a></li>
+				<li class="current"><a href="/services.php">Услуги</a></li>
+				<li><a href="/shares.php">Акции</a></li>
+				<li><a href="discounts.php">Скидки</a></li>
+				<li><a href="/installments.php">Рассрочки</a></li>
+				<li><a href="/sales.php">Распродажи</a></li>
 			</ul>
 			<div class="geo">
 				<select>
